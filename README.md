@@ -8,6 +8,9 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 # Project Progress Report
 [project-progress-report.pdf](project-progress-report.pdf)
 
+# Project Presentation
+[Video Presentation](https://youtu.be/PQwRULNWgfc)
+
 # Documentation
 
 ## 1. Overview
